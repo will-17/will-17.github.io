@@ -51,7 +51,10 @@ th,
 var { font-weight: normal; font-style: normal; }
 ol,
 ul { list-style: none; }
-.resumeBody { margin: 0px auto; font-size: 12px; font-family: "Microsoft Yahei", simsun; color: #555; width: 800px;}
+body{
+  background:pink;
+}
+.resumeBody { margin: 0px auto; font-size: 12px; font-family: "Microsoft Yahei", simsun; color: #555; width: 800px;background:#ccc;}
 .resumeBody strong,
 .resumeBody h1,
 .resumeBody h5,
